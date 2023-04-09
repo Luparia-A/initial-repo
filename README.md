@@ -6,4 +6,4 @@
 - [x] Añadir un archivo Readme, commitear y pushear al repositorio remoto.
 - [x] A partir de la rama principal del repositorio remoto (main), crear una rama en la cual se van a introducir cambios en el Readme.
 - [x] Pushear la nueva rama y hacer PR apuntando a la rama principal.
-- [ ] Analizar la PR desde GitHub y mergearla.
+- [x] Analizar la PR desde GitHub y mergearla.
